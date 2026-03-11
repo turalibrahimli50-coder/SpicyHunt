@@ -1,0 +1,96 @@
+body { font-family: "Hanken Grotesk", sans-serif; }
+.container2 { padding-top: 100px; }
+.firstpart a { color: white; }
+.firstpart nav { font-family: "Hanken Grotesk", serif; }
+.ikon1 { background-color: #A6A182; }
+.ikonunozu { background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
+.firstunit { padding-bottom: 100px; height: auto; position: relative; background-size: cover; background-image: url(https://html.awaikenthemes.com/spicyhunt/images/hero-bg.jpg); }
+.firstunit:before { position: absolute; background-color: black; opacity: 0.5; content: ""; height: 100%; width: 100%; z-index: 0; }
+.button1 { background-color: #A6A182; border-radius: 30px; height: 55px; width: 180px; padding-right: 20px !important; padding-left: 20px !important; border: none; }
+.button1:hover { background-color: white; color: black !important; transition: 2s; }
+nav ul li { margin-left: 30px; }
+.nav-item:hover a { color: #A6A182; }
+.div1 { background-color: #A6A182; width: 100%; height: 0.5px; border: none; }
+.yazi1 { color: #A6A182; font-family: "Hanken Grotesk", serif; font-size: 14px; font-weight: 700; text-transform: uppercase; }
+.yazi2 { font-family: "Hanken Grotesk", serif; font-size: 42px; text-transform: uppercase; font-weight: 800; color: white; margin-bottom: 0px; }
+.yazi3 { color: #ADB0B4; font-family: "Hanken Grotesk", serif; font-size: 16px; text-transform: uppercase; font-weight: 400; }
+.yazilar1 { position: relative; z-index: 2; }
+.sekil2 { border-radius: 999px; width: 400px; }
+.sekil2divi { position: relative; z-index: 2; }
+.yazi4 { color: #A6A181; font-family: "Hanken Grotesk", serif; }
+.yazi5 { color: #A6A181; font-family: "Hanken Grotesk", serif; text-decoration: underline; font-weight: 600; }
+.group1:hover span, .group1:hover i { color: white; transition: 1s; }
+.ikon2 { color: #A6A181; margin-left: 10px; }
+.sekil2divi:before { content: ""; background-color: black; opacity: 0.2; position: absolute; z-index: 3; width: 400px; height: 100%; border-radius: 999px; }
+.secondunit { background-color: #0E110D; height: auto; padding-top: 100px; padding-bottom: 100px; }
+.setir1 li { font-weight: 400; color: #ADB0B4 !important; text-decoration: none; font-size: 18px; text-transform: capitalize; margin-bottom: 5px; }
+.setir1 i { color: #A6A181; margin-right: 5px; }
+.setir1 { list-style: none; padding-left: 0; margin-left: 0; }
+.button2 { background-color: white; border-radius: 30px; height: 55px; width: 180px; padding-right: 20px !important; padding-left: 20px !important; border: none; color: black !important; }
+.button2:hover { background-color: #A6A182; color: white !important; transition: 2s; }
+.div2 { background-color: #A6A182; width: 100%; height: 0.5px; border: none; margin-top: 50px; margin-bottom: 50px; padding: 0 !important; }
+.yazi6 { font-size: 22px; font-weight: 700; text-transform: capitalize; color: white; }
+.yazi7 { font-size: 18px; font-weight: 400; color: #AEB0B4; }
+.sekil3 { width: 80px; height: 80px; }
+.ikonqutusu1 { margin-right: 20px; }
+.ikonqutusu1:hover img { transform: scaleX(-1); }
+.secondunit .col-md-4 { padding-left: 0px; padding-right: 0px; }
+.thirdunit { background-color: #1F2120; height: auto !important; }
+.thirdpart { max-width: 635px; padding: 0px; margin-top: 100px; margin-bottom: 100px; }
+.yazi8 { color: white; font-size: 22px; font-weight: 700; text-transform: capitalize; }
+.yazi9 { color: #ADB0B4; font-size: 18px; font-weight: 400; height: 150px; }
+.sekil4 { border-radius: 50%; border: none; transition: 0.5s; }
+.sekil4:hover { transform: scale(1.5); }
+.yazi10 { color: white; font-size: 18px; font-weight: 400; }
+.yazi11 { color: #A6A181; text-decoration: underline; }
+.yazilar3 { margin-top: 50px; margin-bottom: 50px; }
+.fourthunit { background-color: #0E110D; height: auto; }
+.sekilqutusu1 { overflow: hidden; border-radius: 50%; }
+.row3 { padding-top: 100px; padding-bottom: 100px; }
+.fifthunit { background-color: #1F2120; margin: 0px !important; }
+.inlinepart1 { background-color: #363736; border-radius: 100px; width: auto; margin-bottom: 50px; }
+.inlinepart2 { padding-bottom: 0px; margin-bottom: 50px; }
+.inlinepart1 ul { color: #A6A181; text-transform: capitalize; margin-bottom: 20px; margin-top: 20px; padding-left: 20px; padding-right: 20px; }
+.inlinepart1 li:hover { color: #A6A181; cursor: pointer; }
+.inlinepart1 li { color: white; font-size: 18px; font-weight: 500; margin-right: 40px; list-style: none; }
+.li2 { color: #A6A181 !important; margin-right: 10px !important; }
+.sekil5 { border-radius: 50%; object-fit: cover; }
+.yazi12 { color: white; font-size: 18px; font-weight: 700; white-space: nowrap; }
+.yazi13 { color: #AAADB0; font-size: 18px; font-weight: 400; width: 100%; }
+.buton2 { background-color: #A6A181; font-size: 18px; font-weight: 700; border-radius: 14px; color: white; padding: 5px 20px; border: none; white-space: nowrap; }
+.xett1 { margin-left: 20px; margin-right: 20px; flex: 1; height: 1px; background-color: #565958; }
+.sekilqutusu2 { margin-right: 20px; flex-shrink: 0; }
+.kicikbox { margin-bottom: 30px; }
+.ikincipart { flex: 1; min-width: 0; }
+.basliq1 { width: 100%; display: flex; align-items: center; }
+.sixth { background-color: black; }
+.yazi14 { color: #AEB0B4 !important; font-size: 20px; }
+.ikon3 { color: #A6A182; font-size: 20px; margin-right: 10px; }
+.sekil6 { margin-bottom: 20px; margin-top: 50px; }
+.ul1 i { font-size: 20px; color: white; }
+.qutu1 { border: 1px solid white; background-color: transparent; border-radius: 50%; width: 45px; height: 45px; display: flex; justify-content: center; align-items: center; }
+.ul1 { display: flex; list-style-type: none; padding-left: 0px; }
+.ul1 li { margin-right: 18px; color: #FFFFFF; }
+.yazi15 { color: #AEB0B4 !important; font-size: 20px; }
+.inlinepart3 { margin-bottom: 100px; }
+
+@media (max-width: 992px) {
+  .button1 { display: none !important; }
+  .inlinepart1 li { margin-right: 5px; list-style-type: none; }
+  .inlinepart1 ul { padding-right: 10px; padding-left: 10px; }
+  .secondunit .col-md-4 { margin-bottom: 30px; }
+  .secondunit .col-md-4 p { margin-bottom: 0px; }
+  .sekil1 { margin-left: 0px; }
+  .sekil2 { width: 250px !important; }
+  .sekil2divi { width: 250px; }
+  .sekil2divi:before { width: 250px; content: ""; }
+  .yazi1 { margin-bottom: 0px; }
+  .yazi2 { font-size: 42px; margin-top: 0px !important; }
+  .secondunit { height: auto; padding-top: 50px; }
+  .firstunit { height: auto; }
+  .yazi3 { font-size: 14px; font-weight: 500; }
+  .yazi4 { font-size: 40px; }
+  .yazi6 { font-size: 18px; }
+  .yazi7 { font-size: 15px; }
+  .sekil3 { width: 50px; height: 50px; }
+}
